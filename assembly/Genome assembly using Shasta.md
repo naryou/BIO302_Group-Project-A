@@ -2,7 +2,7 @@
 
 ## Background
 
-Shasta is a de novo assembler for long reads, optimized for Oxford Nanopore (ONT) reads. You find the paper describing Shasta [here](https://www.nature.com/articles/s41587-020-0503-6) and the GitHub repository [here](https://github.com/paoloshasta/shasta).
+Shasta is a de novo assembler for long reads, optimized for Oxford Nanopore (ONT) reads. You can find the paper describing Shasta [here](https://www.nature.com/articles/s41587-020-0503-6) and the GitHub repository [here](https://github.com/paoloshasta/shasta).
 
 ## Running Shasta on Galaxy
 
