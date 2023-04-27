@@ -6,9 +6,13 @@
 *Primula boveana* (Primulaceae)
 Endemic to Sinai, Egypt; critically endangered with only ca. 200 individuals in the wild. Homostylous (only one flower morph, due to loss of heterostyly)
 
-Genome size: 450Mb (Flow Cytometry and K-mer count)
-Ploidy: diploid, 2n=20
-Data generated: Nanopore (100x total), WGS shotgun, Hi-C (Arima) 
+- Genome size: 450Mb (Flow Cytometry and K-mer count)
+- Ploidy: diploid, 2n=20
+- Data generated: Nanopore (100x total), WGS shotgun, Hi-C (Arima) 
+
+![Primula boveana][Pboveana_UZH_greenhouse_NY]
+
+[Pboveana_UZH_greenhouse_NY]: ./Pboveana_UZH_greenhouse_NY.jpeg
 
 
 ## On this [Galaxy history](), you find the following data
