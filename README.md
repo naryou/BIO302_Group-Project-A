@@ -18,10 +18,12 @@ Endemic to Sinai, Egypt; critically endangered with only ca. 200 individuals in 
 
 ## On this [Galaxy history](), you find the following data
 
-- Whole  Genome Shotgun Sequencing of Primula boveana. This is Illumina short reads, paired-end (PE), 150bp.
+- Whole  Genome Shotgun Sequencing of Primula boveana. This is Illumina short reads, paired-end (PE), 150bp. The files 20220128.A-Pboveana_I1.fastq.gz and 20220128.A-Pboveana_I2.fastq.gz (which have **I**), are small versions of the larger WGS data set. *Narcis will give you the larger datasets alao*
 - Nanopore reads of Primula boveana.
 - Hi-C data. This is also Illumina short reads, paired-end (PE), 150bp, but the read1 and read2 come from stretches of DNA which are in close distance in 3D. 
 To refresh your knowledge on Hi-C data, have a look at LEC2, NGS data generation and handling.
+
+& Narcis will give you fasta and graph files of ref. genome assembly of the same nanopore data with Flye for comparison.ç
 
 ## The project will be done in four steps:
 - genome profiling using GenomeScope2
