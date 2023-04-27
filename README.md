@@ -23,7 +23,7 @@ Endemic to Sinai, Egypt; critically endangered with only ca. 200 individuals in 
 - Hi-C data. This is also Illumina short reads, paired-end (PE), 150bp, but the read1 and read2 come from stretches of DNA which are in close distance in 3D. 
 To refresh your knowledge on Hi-C data, have a look at LEC2, NGS data generation and handling.
 
-& Narcis will give you fasta and graph files of ref. genome assembly of the same nanopore data with Flye for comparison.ç
+& Narcis will give you fasta and graph files of ref. genome assembly of the same nanopore data with Flye for comparison.
 
 ## The project will be done in four steps:
 - genome profiling using GenomeScope2
