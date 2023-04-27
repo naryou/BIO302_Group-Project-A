@@ -2,6 +2,15 @@
 
 *Students: Melisa & Michelle*
 
+## Study system:
+*Primula boveana* (Primulaceae)
+Endemic to Sinai, Egypt; critically endangered with only ca. 200 individuals in the wild. Homostylous (only one flower morph, due to loss of heterostyly)
+
+Genome size: 450Mb (Flow Cytometry and K-mer count)
+Ploidy: diploid, 2n=20
+Data generated: Nanopore (100x total), WGS shotgun, Hi-C (Arima) 
+
+
 ## On this [Galaxy history](), you find the following data
 
 - Whole  Genome Shotgun Sequencing of Primula boveana. This is Illumina short reads, paired-end (PE), 150bp.
@@ -16,4 +25,5 @@ To refresh your knowledge on Hi-C data, have a look at LEC2, NGS data generation
 - annotation using Repeat Modeler (and Maker if we have time)
 
 You find tutorials for genome profiling, assembly, scaffolding and annotation in this repository. Just navigate to different directories.
+
 
