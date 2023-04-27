@@ -1,5 +1,7 @@
 # BIO302_Group-Project-A
 
+*Students: Melisa & Michelle*
+
 ## On this [Galaxy history](), you find the following data
 
 - Whole  Genome Shotgun Sequencing of Primula boveana. This is Illumina short reads, paired-end (PE), 150bp.
