@@ -12,7 +12,7 @@ Endemic to Sinai, Egypt; critically endangered with only ca. 200 individuals in 
 
 ![Primula boveana][Pboveana_UZH_greenhouse_NY]
 
-[Pboveana_UZH_greenhouse_NY]: ./Pboveana_UZH_greenhouse_NY.jpeg
+[Pboveana_UZH_greenhouse_NY]: ./Pboveana_UZH_greenhouse_NY.jpg
 
 
 ## On this [Galaxy history](), you find the following data
