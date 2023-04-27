@@ -2,7 +2,7 @@
 
 *Students: Melisa & Michelle*
 
-## Study system:
+## Study system
 *Primula boveana* (Primulaceae)
 Endemic to Sinai, Egypt; critically endangered with only ca. 200 individuals in the wild. Homostylous (only one flower morph, due to loss of heterostyly)
 
