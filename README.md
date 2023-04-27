@@ -16,7 +16,7 @@ Endemic to Sinai, Egypt; critically endangered with only ca. 200 individuals in 
 [Pboveana_UZH_greenhouse_NY]: ./Pboveana_UZH_greenhouse_NY.jpg
 
 
-## On this [Galaxy history](), you find the following data
+## On this [Galaxy history](https://usegalaxy.eu/u/naryou/h/bio302genome-assembly-a), you find the following data
 
 - Whole  Genome Shotgun Sequencing of Primula boveana. This is Illumina short reads, paired-end (PE), 150bp. The files 20220128.A-Pboveana_I1.fastq.gz and 20220128.A-Pboveana_I2.fastq.gz (which have **I**), are small versions of the larger WGS data set. *Narcis will give you the larger datasets alao*
 - Nanopore reads of Primula boveana.
