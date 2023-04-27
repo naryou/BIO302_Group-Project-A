@@ -15,5 +15,5 @@ To refresh your knowledge on Hi-C data, have a look at LEC2, NGS data generation
 - scaffolding using YaHS
 - annotation using Repeat Modeler (and Maker if we have time)
 
-You find the assembly, scaffolding and annotation in this repository. Just navigate to different directories.
+You find tutorials for genome profiling, assembly, scaffolding and annotation in this repository. Just navigate to different directories.
 
