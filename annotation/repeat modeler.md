@@ -2,8 +2,9 @@
 *being updated...*
 
 ## Background
+For identification and annotation of transposable element (TE) families, we use the RepeatModeler package. RepeatModeler uses three de novo repeat finding programs ( RECON, RepeatScout and LtrHarvest/Ltr_retriever) which employ complementary computational methods for identifying repeat elements from sequence data.
 
-
+Here is the link to [RepeatModeler paper](https://www.pnas.org/doi/pdf/10.1073/pnas.1921046117?download=true) and here you find the [GitHub repository](https://github.com/Dfam-consortium/RepeatModeler). 
 
 
 ## Run RepeatModeler on Galaxy  
