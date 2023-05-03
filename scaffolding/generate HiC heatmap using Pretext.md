@@ -3,7 +3,7 @@
 # Generating Hi-C heatmaps
 
 ## Background
-
+Here is the [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1161-y) to a nice overview paper on Hi-C data visualiztion. We will use [Pretext]() for visualizytion (it's not listed in the overview paper but the concept is similar for all heatmap visualization software).
 
 ## Running Pretext on galaxy
 
@@ -19,5 +19,14 @@ In **Input dataset in SAM or BAM format**: Output of filter and merge
 **Sort by**: Don't sort
 **How to filter**: No filter
 
-and `Run Tool`
+and `Run Tool`.
+
+### step 3: run 
+From Tools panel choose [**Pretext Snapshot** image generator for Pretext contact maps](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/pretext_snapshot/pretext_snapshot/0.0.3+galaxy1) with the following settings:
+
+
+
+
+
+You can download the file and visualize it in [PretextView](). 
 
