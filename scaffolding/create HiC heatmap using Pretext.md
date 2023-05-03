@@ -1,4 +1,8 @@
-## Create Hi-C heatmaps 
+*being updated by Narcis*
+
+# Generating Hi-C heatmaps
+
+## Background
 
 
 ## Running Pretext on galaxy
