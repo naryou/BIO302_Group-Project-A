@@ -13,8 +13,11 @@ This step is similar to the scaffolding process; we use [**Map with BWA-MEM2**](
 
 
 ### step 2: run Pretext to generate the Hi-C heatmap
-fro Tools panel choose [**PretextMap converts SAM or BAM files into genome contact maps**](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/pretext_map/pretext_map/0.1.8+galaxy2) with the following setting:
+From Tools panel choose [**PretextMap converts SAM or BAM files into genome contact maps**](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/pretext_map/pretext_map/0.1.8+galaxy2) with the following settings:
 
-- In **Input dataset in SAM or BAM format**: Output of filter and merge
+In **Input dataset in SAM or BAM format**: Output of filter and merge
+**Sort by**: Don't sort
+**How to filter**: No filter
 
+and `Run Tool`
 
