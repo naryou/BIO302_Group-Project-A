@@ -3,7 +3,7 @@
 # Generating Hi-C heatmaps
 
 ## Background
-Here is the [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1161-y) to a nice overview paper on Hi-C data visualiztion. We will use [Pretext]() for visualizytion (it's not listed in the overview paper but the concept is similar for all heatmap visualization software).
+Here is the [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1161-y) to a nice overview paper on Hi-C data visualiztion. We will use [Pretext]() for visualizytion (it's not listed in the overview paper but concept is similar for all heatmap visualization software).
 
 ## Running Pretext on galaxy
 
@@ -28,5 +28,5 @@ From Tools panel choose [**Pretext Snapshot** image generator for Pretext contac
 
 
 
-You can download the file and visualize it in [PretextView](). 
+You can also download the **pretext** file and visualize it in [PretextView](https://github.com/wtsi-hpag/PretextView/releases). 
 
